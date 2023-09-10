@@ -1,5 +1,4 @@
 import React from 'react';
-import {CircularText} from "@/components/icon";
 import Link from "next/link";
 
 const CtaButton = () => (
