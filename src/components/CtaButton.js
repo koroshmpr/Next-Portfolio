@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from "next/link";
+import {CircularText} from "@/components/icon";
 
 const CtaButton = () => (
     <div className="fixed bottom-2 left-2 flex justify-center items-center overflow-hidden">
